@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Abdussamad, a passionate software engineer based in Abuja. I focus on develper front end applications with HTML, CSS, JavaScript and TypeScript. I'm also experienced with frameworks and technologies like React, Next js, react . I enjoy learning new technologies and exploring different areas of web development.
+I'm Abdussamad, a passionate software engineer based in Abuja. I focus on develper front end applications with HTML, CSS, JavaScript and TypeScript. I'm also experienced with frameworks and technologies like React, Next js, React Native. I enjoy learning new technologies and exploring different areas of web development.
 <!--
 **Abdussamadajao/Abdussamadajao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
